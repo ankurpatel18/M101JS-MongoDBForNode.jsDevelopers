@@ -21,6 +21,7 @@ As a check on your work, the number of unique companies for roger-ehrenberg is 1
 
 ANS : 15
 
+My Ans : 
 db.companies.aggregate( [
     { $match: { "relationships.person": { $ne: null } } },
     { $project: { name:1,relationships: 1, _id: 0 } },
@@ -32,3 +33,25 @@ db.companies.aggregate( [
     { $match: { '_id.person.permalink' : { $eq : "eric-di-benedetto"} } },
     { $sort: { count: -1 } }
 ] )
+
+
+
+MongoDB Ans:
+db.companies.aggregate([
+    { $project: { relationships: 1, _id: 0, name : 1, permalink: 1 } },
+    { $unwind: "$relationships" },
+    { $group: {
+        _id: { person: "$relationships.person" },
+        gross_companies: { $push : "$permalink" },
+        unique_companies: { $addToSet : "$permalink" }
+    } },
+    { $project: {
+        _id: 0,
+        person: "$_id.person",
+        gross_companies: 1,
+        unique_companies: 1,
+        unique_number_of_companies: { $size: "$unique_companies" },
+        gross_number_of_companies: { $size: "$gross_companies" }
+    } },
+    { $sort: { unique_number_of_companies: -1 } }
+]).pretty()
