@@ -1,0 +1,28 @@
+mongo-edu -d /Volumes/Source/Downloads/mongodb-edu/M101JS\ -\ MongoDB\ for\ Node.js\ Developers/Videos/week_5_indexes_and_performance/ -u ankurpatel18@gmail.com --cw --hq --cc --save myvideo
+
+mongoimport -d myproject -c week3quiz test.json
+
+
+Homework 5.1
+
+Ans : 
+- db.products.find( { 'brand' : "GE" } ).sort( { price : 1 } )
+- db.products.find( { $and : [ { price : { $gt : 30 } },{ price : { $lt : 50 } } ] } ).sort( { brand : 1 } )
+
+Homework 5.2
+
+Ans :
+
+- The query uses an index to determine the order in which to return result documents.
+- The query examines 251120 documents. 
+
+
+Homework 5.3
+
+In this problem you will analyze a profile log taken from a mongoDB instance. To start, please download sysprofile.json from Download Handout link and import it with the following command:
+
+mongoimport -d m101 -c profile < sysprofile.json
+Now query the profile data, looking for all queries to the students collection in the database school2, sorted in order of decreasing latency. What is the latency of the longest running operation to the collection, in milliseconds?
+
+Ans :
+15820
