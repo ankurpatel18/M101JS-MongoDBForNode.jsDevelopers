@@ -1,0 +1,32 @@
+Hi,
+
+I got answer in first attempt..
+
+Here is my thinking of answer... (use facebook.json)
+
+1 If the number of milestones does not exceed 10 per year
+
+- looks ok as u search inside milestones field, check "stoned_year" how many times it is...
+
+2 if the milestones will never contain more than 15 fields
+
+- it looks good in JSON but think it can contain more fields but there is no limit of adding fields...
+
+3 if the milestones field is always less than 16K
+
+- it looks good in JSON but total size of milestone is 16KB but it can be more if it has more fields..
+
+4 One frequently displayed view of our data displays company details such as the "name", "founded_year", "twitter_username", etc. as well as milestones.
+
+- This is definitly true... as rule of frequency of acces
+
+5 Some of the milestone fields such as "stoneable_type" and "stoneable" are frequently the same from one milestone to another.
+
+- we don't really care about the nature of the fields...
+
+I answered here but you need to undestand it preoprely to find right answer...
+
+Best Luck,
+Ankur Patel
+
+** Sorry for my english... if not understand let me know...

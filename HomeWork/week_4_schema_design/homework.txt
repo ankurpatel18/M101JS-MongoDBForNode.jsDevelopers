@@ -1,0 +1,15 @@
+Homework: 4.1
+
+Ans: 
+- The number of milestones for a company rarely exceeds 10 per year.
+- One frequently displayed view of our data displays company details such as the "name", "founded_year", "twitter_username", etc. as well as milestones.
+
+
+Homework: 4.2
+
+Ans: B
+
+Homework: 4.3
+
+Ans: 
+- Can make atomic updates as books are checked out or turned in.
