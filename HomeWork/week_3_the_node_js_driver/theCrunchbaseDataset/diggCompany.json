@@ -1,0 +1,1079 @@
+{
+	"_id" : ObjectId("52cdef7c4bab8bd675297d8d"),
+	"name" : "Digg",
+	"permalink" : "digg",
+	"crunchbase_url" : "http://www.crunchbase.com/company/digg",
+	"homepage_url" : "http://www.digg.com",
+	"blog_url" : "http://blog.digg.com/",
+	"blog_feed_url" : "http://blog.digg.com/?feed=rss2",
+	"twitter_username" : "digg",
+	"category_code" : "news",
+	"number_of_employees" : 60,
+	"founded_year" : 2004,
+	"founded_month" : 10,
+	"founded_day" : 11,
+	"deadpooled_year" : null,
+	"deadpooled_month" : null,
+	"deadpooled_day" : null,
+	"deadpooled_url" : null,
+	"tag_list" : "community, social, news, bookmark, digg, technology, design",
+	"alias_list" : "",
+	"email_address" : "feedback@digg.com",
+	"phone_number" : "(415) 436-9638",
+	"description" : "user driven social content website",
+	"created_at" : "Fri May 25 20:03:23 UTC 2007",
+	"updated_at" : "Tue Nov 05 21:35:47 UTC 2013",
+	"overview" : "<p>Digg is a user driven social content website. Everything on Digg is user-submitted. After you submit content, other people read your submission and &#8220;Digg&#8221; what they like best. If your story receives enough Diggs, it&#8217;s promoted to the front page for other visitors to see.</p>\n\n<p><a href=\"http://www.crunchbase.com/person/kevin-rose\" title=\"Kevin Rose\">Kevin Rose</a> came up with the idea for Digg in the fall of 2004.  He found programmer <a href=\"http://www.crunchbase.com/person/owen-byrne\" title=\"Owen Byrne\">Owen Byrne</a> through <a href=\"http://www.crunchbase.com/company/elance\" title=\"eLance\">eLance</a> and paid him $10/hour to develop the idea. In addition, Rose paid $99 per month for hosting and $1,200 for the Digg.com domain. In December of 2004, Kevin launched his creation to the world through a post on his blog.</p>\n\n<p>In February of 2005, Paris Hilton&#8217;s cell phone was hacked.  Images and phone numbers from the phone were posted online and it didn&#8217;t take long for a user to post the link on Digg. The rapidshare downloads site started to receive an enormous amount of traffic and it was then, Rose says, he saw &#8220;the power of breaking stories before anyone else.&#8221;</p>\n\n<p>Digg has been a force ever since.  Acquisition offers have been made, Rose was on the cover of <a href=\"/company/businessweek\" title=\"BusinessWeek\" rel=\"nofollow\">BusinessWeek</a> and according to <a href=\"/company/alexa\" title=\"Alexa\" rel=\"nofollow\">Alexa</a>, Digg is in the top 100 most trafficked sites on the internet. The success hasn&#8217;t come without its share of problems though.  The site has had to face <a href=\"http://www.techcrunch.com/2007/04/02/subvert-and-profit-next-service-to-try-gaming-digg/\" title=\"services aimed at gaming\">services aimed at gaming</a> the way stories hit the front page, as well as a <a href=\"http://www.techcrunch.com/2007/05/01/digg-surrenders-to-mob/\" title=\"user revolt\">user revolt</a>.  Digg has however been able to get over these hurdles as it continues to be one of the social news leaders. </p>",
+	"image" : {
+		"available_sizes" : [
+			[
+				[
+					150,
+					150
+				],
+				"assets/images/resized/0000/4138/4138v5-max-150x150.jpg"
+			],
+			[
+				[
+					250,
+					250
+				],
+				"assets/images/resized/0000/4138/4138v5-max-250x250.jpg"
+			],
+			[
+				[
+					280,
+					280
+				],
+				"assets/images/resized/0000/4138/4138v5-max-450x450.jpg"
+			]
+		],
+		"attribution" : null
+	},
+	"products" : [
+		{
+			"name" : "Digg",
+			"permalink" : "digg"
+		}
+	],
+	"relationships" : [
+		{
+			"is_past" : false,
+			"title" : "CEO",
+			"person" : {
+				"first_name" : "Andrew",
+				"last_name" : "McLaughlin",
+				"permalink" : "andrew-mclaughlin"
+			}
+		},
+		{
+			"is_past" : false,
+			"title" : "CEO",
+			"person" : {
+				"first_name" : "Matt",
+				"last_name" : "Williams",
+				"permalink" : "matt-williams-2"
+			}
+		},
+		{
+			"is_past" : false,
+			"title" : "CFO",
+			"person" : {
+				"first_name" : "Bennett",
+				"last_name" : "Thuener",
+				"permalink" : "bennett-thuener"
+			}
+		},
+		{
+			"is_past" : false,
+			"title" : "VP of Engineering",
+			"person" : {
+				"first_name" : "Ben",
+				"last_name" : "Folk-Williams",
+				"permalink" : "ben-folk-williams"
+			}
+		},
+		{
+			"is_past" : false,
+			"title" : "Designer",
+			"person" : {
+				"first_name" : "Tyson",
+				"last_name" : "Rosage",
+				"permalink" : "tyson-rosage"
+			}
+		},
+		{
+			"is_past" : false,
+			"title" : "NetSystem",
+			"person" : {
+				"first_name" : "Elad",
+				"last_name" : "Gilo",
+				"permalink" : "elad-gilo"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Founder & CEO",
+			"person" : {
+				"first_name" : "Kevin",
+				"last_name" : "Rose",
+				"permalink" : "kevin-rose"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "CFO",
+			"person" : {
+				"first_name" : "John",
+				"last_name" : "Moffett",
+				"permalink" : "john-moffett"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Chief Strategy Officer",
+			"person" : {
+				"first_name" : "Mike",
+				"last_name" : "Maser",
+				"permalink" : "mike-maser"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Chief Executive Officer",
+			"person" : {
+				"first_name" : "Jay",
+				"last_name" : "Adelson",
+				"permalink" : "jay-adelson"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "VP Ads Development",
+			"person" : {
+				"first_name" : "Alan",
+				"last_name" : "Lippman",
+				"permalink" : "alan-lippman"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "VP of Engineering",
+			"person" : {
+				"first_name" : "Brian",
+				"last_name" : "Link",
+				"permalink" : "brian-link"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "VP Engineering",
+			"person" : {
+				"first_name" : "John",
+				"last_name" : "Quinn",
+				"permalink" : "john-quinn-2"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "VP of Product",
+			"person" : {
+				"first_name" : "Keval",
+				"last_name" : "Desai",
+				"permalink" : "keval-desai"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "VP Business Development",
+			"person" : {
+				"first_name" : "Bob",
+				"last_name" : "Buch",
+				"permalink" : "bob-buch"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Vice President, Operations",
+			"person" : {
+				"first_name" : "Scott",
+				"last_name" : "Baker",
+				"permalink" : "scott-baker"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "VP of Research and Development",
+			"person" : {
+				"first_name" : "Anton",
+				"last_name" : "Kast",
+				"permalink" : "anton-kast"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Senior Software Engineer",
+			"person" : {
+				"first_name" : "Owen",
+				"last_name" : "Byrne",
+				"permalink" : "owen-byrne"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Lead Architect",
+			"person" : {
+				"first_name" : "Joe",
+				"last_name" : "Stump",
+				"permalink" : "joe-stump"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Business Development",
+			"person" : {
+				"first_name" : "Matt",
+				"last_name" : "Van Horn",
+				"permalink" : "matt-van-horn"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Creative Director",
+			"person" : {
+				"first_name" : "Daniel",
+				"last_name" : "Burka",
+				"permalink" : "daniel-burka"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Board of Directors",
+			"person" : {
+				"first_name" : "Richard",
+				"last_name" : "de Silva",
+				"permalink" : "richard-de-silva"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "User Experience",
+			"person" : {
+				"first_name" : "Mark",
+				"last_name" : "Trammell",
+				"permalink" : "mark-trammell"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "UI Designer",
+			"person" : {
+				"first_name" : "Addison",
+				"last_name" : "Kowalski",
+				"permalink" : "addison-kowalski"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Team Lead, Core Infrastructure",
+			"person" : {
+				"first_name" : "Arin",
+				"last_name" : "Sarkissian",
+				"permalink" : "arin-sarkissian"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "R&D Analyst, Operations Engineer",
+			"person" : {
+				"first_name" : "Ben",
+				"last_name" : "Standefer",
+				"permalink" : "ben-standefer"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "UI Developer",
+			"person" : {
+				"first_name" : "Jamie",
+				"last_name" : "Lottering",
+				"permalink" : "jamie-lottering"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Director of Engineering, News Platform",
+			"person" : {
+				"first_name" : "Bill",
+				"last_name" : "Shupp",
+				"permalink" : "bill-shupp"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Senior Software Engineer",
+			"person" : {
+				"first_name" : "Kurt",
+				"last_name" : "Wilms",
+				"permalink" : "kurt-wilms"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Principal R&D Engineer",
+			"person" : {
+				"first_name" : "Wes",
+				"last_name" : "Augur",
+				"permalink" : "wes-augur"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Product Manager",
+			"person" : {
+				"first_name" : "Mike",
+				"last_name" : "Cieri",
+				"permalink" : "mike-cieri"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Sr. Systems Engineer",
+			"person" : {
+				"first_name" : "Paul",
+				"last_name" : "Lathrop",
+				"permalink" : "paul-lathrop"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Software engineer & UIX designer",
+			"person" : {
+				"first_name" : "Baldvin Mar",
+				"last_name" : "Smarason",
+				"permalink" : "baldvin-smarason-2"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Developer",
+			"person" : {
+				"first_name" : "Can",
+				"last_name" : "Duruk",
+				"permalink" : "can-duruk"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Director of Ad Ops",
+			"person" : {
+				"first_name" : "Veronica",
+				"last_name" : "Tegen",
+				"permalink" : "veronica-tegen"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Business Development",
+			"person" : {
+				"first_name" : "Brian",
+				"last_name" : "Wong",
+				"permalink" : "brian-wong"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Senior Community Manager",
+			"person" : {
+				"first_name" : "Jen",
+				"last_name" : "Burton",
+				"permalink" : "jen-burton"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Sr. Director of Marketing & Communications",
+			"person" : {
+				"first_name" : "Beth",
+				"last_name" : "Murphy",
+				"permalink" : "beth-murphy"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Systems Engineering Manager",
+			"person" : {
+				"first_name" : "Ron",
+				"last_name" : "Gorodetzky",
+				"permalink" : "ron-gorodetzky"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Director of Communications",
+			"person" : {
+				"first_name" : "Kiersten",
+				"last_name" : "Hollars",
+				"permalink" : "kiersten-hollars"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Head of Sales & Sales Operations",
+			"person" : {
+				"first_name" : "Thomas",
+				"last_name" : "Shin",
+				"permalink" : "thomas-shin"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Publisher & Chief Revenue Officer",
+			"person" : {
+				"first_name" : "Chas",
+				"last_name" : "Edwards",
+				"permalink" : "chas-edwards"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Director of Design and User Experience",
+			"person" : {
+				"first_name" : "Jeffrey",
+				"last_name" : "Kalmikoff",
+				"permalink" : "jeffrey-kalmikoff"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Software Engineer",
+			"person" : {
+				"first_name" : "Jeff",
+				"last_name" : "Hodsdon",
+				"permalink" : "jeff-hodsdon"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Director, PR",
+			"person" : {
+				"first_name" : "Michele",
+				"last_name" : "Husak",
+				"permalink" : "michele-husak"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Business Development",
+			"person" : {
+				"first_name" : "Vishwas",
+				"last_name" : "Prabhakara",
+				"permalink" : "vishwas-prabhakara"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Board of Directors",
+			"person" : {
+				"first_name" : "David",
+				"last_name" : "Sze",
+				"permalink" : "david-sze"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Software Engineer",
+			"person" : {
+				"first_name" : "Vipul",
+				"last_name" : "Sharma",
+				"permalink" : "vipul-sharma"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Head of Search & User Analytics",
+			"person" : {
+				"first_name" : "Marshall",
+				"last_name" : "Clark",
+				"permalink" : "marshall-clark"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Design and User Experience Lead",
+			"person" : {
+				"first_name" : "Marc",
+				"last_name" : "Hemeon",
+				"permalink" : "marc-hemeon"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Director of News Applications",
+			"person" : {
+				"first_name" : "Arsenio",
+				"last_name" : "Santos",
+				"permalink" : "arsenio-santos"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Senior Core Infrastructure Engineer",
+			"person" : {
+				"first_name" : "Ian",
+				"last_name" : "Eure",
+				"permalink" : "ian-eure"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Sr. Developer",
+			"person" : {
+				"first_name" : "Ryan",
+				"last_name" : "Marshall",
+				"permalink" : "ryan-marshall"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "PHP Hacker",
+			"person" : {
+				"first_name" : "Eli",
+				"last_name" : "White",
+				"permalink" : "eli-white"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Account Director",
+			"person" : {
+				"first_name" : "Tommy",
+				"last_name" : "Lee",
+				"permalink" : "tommy-lee"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Head of Consumer Product",
+			"person" : {
+				"first_name" : "Dash",
+				"last_name" : "Gopinath",
+				"permalink" : "dash-gopinath"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Software Engineer",
+			"person" : {
+				"first_name" : "Baldvin Mar",
+				"last_name" : "Smarason",
+				"permalink" : "baldvin-smarason-2"
+			}
+		},
+		{
+			"is_past" : true,
+			"title" : "Senior Software Engineer",
+			"person" : {
+				"first_name" : "Sammy",
+				"last_name" : "Yu",
+				"permalink" : "sammy-yu"
+			}
+		}
+	],
+	"competitions" : [
+		{
+			"competitor" : {
+				"name" : "Reddit",
+				"permalink" : "reddit"
+			}
+		},
+		{
+			"competitor" : {
+				"name" : "Twitter",
+				"permalink" : "twitter"
+			}
+		},
+		{
+			"competitor" : {
+				"name" : "Newsvine",
+				"permalink" : "newsvine"
+			}
+		},
+		{
+			"competitor" : {
+				"name" : "Truemors",
+				"permalink" : "truemors"
+			}
+		},
+		{
+			"competitor" : {
+				"name" : "fav.or.it",
+				"permalink" : "favorit"
+			}
+		},
+		{
+			"competitor" : {
+				"name" : "Spotplex",
+				"permalink" : "spotplex"
+			}
+		},
+		{
+			"competitor" : {
+				"name" : "Mixx",
+				"permalink" : "mixx"
+			}
+		},
+		{
+			"competitor" : {
+				"name" : "Pligg LLC",
+				"permalink" : "pligg"
+			}
+		},
+		{
+			"competitor" : {
+				"name" : "Silobreaker",
+				"permalink" : "silobreaker"
+			}
+		},
+		{
+			"competitor" : {
+				"name" : "Newspond",
+				"permalink" : "newspond"
+			}
+		},
+		{
+			"competitor" : {
+				"name" : "Popularo",
+				"permalink" : "popularo"
+			}
+		},
+		{
+			"competitor" : {
+				"name" : "ZapNat",
+				"permalink" : "zapnat"
+			}
+		},
+		{
+			"competitor" : {
+				"name" : "ShoutWire",
+				"permalink" : "shoutwire"
+			}
+		},
+		{
+			"competitor" : {
+				"name" : "nobosh",
+				"permalink" : "nobosh"
+			}
+		},
+		{
+			"competitor" : {
+				"name" : "YiGG",
+				"permalink" : "yigg"
+			}
+		},
+		{
+			"competitor" : {
+				"name" : "Publish2",
+				"permalink" : "publish2"
+			}
+		},
+		{
+			"competitor" : {
+				"name" : "Naubo",
+				"permalink" : "naubo"
+			}
+		},
+		{
+			"competitor" : {
+				"name" : "Skewz",
+				"permalink" : "skewz"
+			}
+		},
+		{
+			"competitor" : {
+				"name" : "eVIPlist",
+				"permalink" : "eviplist"
+			}
+		},
+		{
+			"competitor" : {
+				"name" : "slinkset",
+				"permalink" : "slinkset"
+			}
+		},
+		{
+			"competitor" : {
+				"name" : "Subbmitt",
+				"permalink" : "subbmitt"
+			}
+		},
+		{
+			"competitor" : {
+				"name" : "Link Spank",
+				"permalink" : "linkspank"
+			}
+		},
+		{
+			"competitor" : {
+				"name" : "EIOBA",
+				"permalink" : "eioba"
+			}
+		},
+		{
+			"competitor" : {
+				"name" : "buzznewzz",
+				"permalink" : "buzznewzz"
+			}
+		},
+		{
+			"competitor" : {
+				"name" : "RatherGather",
+				"permalink" : "rathergather"
+			}
+		},
+		{
+			"competitor" : {
+				"name" : "StumbleUpon",
+				"permalink" : "stumbleupon"
+			}
+		},
+		{
+			"competitor" : {
+				"name" : "GRAZEit",
+				"permalink" : "grazeit"
+			}
+		},
+		{
+			"competitor" : {
+				"name" : "Newser",
+				"permalink" : "newser"
+			}
+		}
+	],
+	"providerships" : [
+		{
+			"title" : "Public Relations",
+			"is_past" : true,
+			"provider" : {
+				"name" : "K/F Communications",
+				"permalink" : "k-f-communications"
+			}
+		}
+	],
+	"total_money_raised" : "$45M",
+	"funding_rounds" : [
+		{
+			"id" : 1,
+			"round_code" : "b",
+			"source_url" : "http://www.marketingvox.com/archives/2006/12/29/digg-gets-85mm-in-funding/",
+			"source_description" : "",
+			"raised_amount" : 8500000,
+			"raised_currency_code" : "USD",
+			"funded_year" : 2006,
+			"funded_month" : 12,
+			"funded_day" : 1,
+			"investments" : [
+				{
+					"company" : null,
+					"financial_org" : {
+						"name" : "Greylock Partners",
+						"permalink" : "greylock"
+					},
+					"person" : null
+				},
+				{
+					"company" : null,
+					"financial_org" : {
+						"name" : "Omidyar Network",
+						"permalink" : "omidyar-network"
+					},
+					"person" : null
+				}
+			]
+		},
+		{
+			"id" : 85,
+			"round_code" : "a",
+			"source_url" : "http://goliath.ecnext.com/coms2/gi_0199-4857782/Social-Content-Web-Site-Digg.html",
+			"source_description" : "",
+			"raised_amount" : 2800000,
+			"raised_currency_code" : "USD",
+			"funded_year" : 2005,
+			"funded_month" : 10,
+			"funded_day" : 1,
+			"investments" : [
+				{
+					"company" : null,
+					"financial_org" : {
+						"name" : "Greylock Partners",
+						"permalink" : "greylock"
+					},
+					"person" : null
+				},
+				{
+					"company" : null,
+					"financial_org" : {
+						"name" : "Omidyar Network",
+						"permalink" : "omidyar-network"
+					},
+					"person" : null
+				},
+				{
+					"company" : null,
+					"financial_org" : null,
+					"person" : {
+						"first_name" : "Marc",
+						"last_name" : "Andreessen",
+						"permalink" : "marc-andreessen"
+					}
+				},
+				{
+					"company" : null,
+					"financial_org" : null,
+					"person" : {
+						"first_name" : "Reid",
+						"last_name" : "Hoffman",
+						"permalink" : "reid-hoffman"
+					}
+				},
+				{
+					"company" : null,
+					"financial_org" : null,
+					"person" : {
+						"first_name" : "Ron",
+						"last_name" : "Conway",
+						"permalink" : "ron-conway"
+					}
+				},
+				{
+					"company" : null,
+					"financial_org" : null,
+					"person" : {
+						"first_name" : "Al",
+						"last_name" : "Avery",
+						"permalink" : "al-avery"
+					}
+				},
+				{
+					"company" : null,
+					"financial_org" : {
+						"name" : "FLOODGATE",
+						"permalink" : "floodgate"
+					},
+					"person" : null
+				},
+				{
+					"company" : null,
+					"financial_org" : {
+						"name" : "SV Angel",
+						"permalink" : "sv-angel"
+					},
+					"person" : null
+				}
+			]
+		},
+		{
+			"id" : 3503,
+			"round_code" : "c",
+			"source_url" : "http://www.techcrunch.com/2008/09/24/spurned-by-google-digg-taps-vcs-for-29-million-c-round/",
+			"source_description" : "press release",
+			"raised_amount" : 28700000,
+			"raised_currency_code" : "USD",
+			"funded_year" : 2008,
+			"funded_month" : 9,
+			"funded_day" : 24,
+			"investments" : [
+				{
+					"company" : null,
+					"financial_org" : {
+						"name" : "Highland Capital Partners",
+						"permalink" : "highland-capital-partners"
+					},
+					"person" : null
+				},
+				{
+					"company" : null,
+					"financial_org" : {
+						"name" : "Greylock Partners",
+						"permalink" : "greylock"
+					},
+					"person" : null
+				},
+				{
+					"company" : null,
+					"financial_org" : {
+						"name" : "Omidyar Network",
+						"permalink" : "omidyar-network"
+					},
+					"person" : null
+				},
+				{
+					"company" : null,
+					"financial_org" : {
+						"name" : "SVB Financial Group",
+						"permalink" : "svb-financial-group"
+					},
+					"person" : null
+				}
+			]
+		},
+		{
+			"id" : 24136,
+			"round_code" : "d",
+			"source_url" : "http://techcrunch.com/2011/07/12/digg-raises-an-inside-venture-round/",
+			"source_description" : "Digg Raises An Inside Venture Round",
+			"raised_amount" : 5000000,
+			"raised_currency_code" : "USD",
+			"funded_year" : 2011,
+			"funded_month" : 7,
+			"funded_day" : 12,
+			"investments" : [ ]
+		}
+	],
+	"investments" : [ ],
+	"acquisition" : {
+		"price_amount" : 500000,
+		"price_currency_code" : "USD",
+		"term_code" : null,
+		"source_url" : "http://techcrunch.com/2012/07/12/betaworks-acquires-digg/",
+		"source_description" : "Betaworks Acquires Digg (TechCrunch)",
+		"acquired_year" : 2012,
+		"acquired_month" : 7,
+		"acquired_day" : 12,
+		"acquiring_company" : {
+			"name" : "betaworks",
+			"permalink" : "betaworks"
+		}
+	},
+	"acquisitions" : [
+		{
+			"price_amount" : null,
+			"price_currency_code" : "USD",
+			"term_code" : null,
+			"source_url" : "",
+			"source_description" : "",
+			"acquired_year" : 2009,
+			"acquired_month" : 10,
+			"acquired_day" : 15,
+			"company" : {
+				"name" : "Wefollow",
+				"permalink" : "wefollow"
+			}
+		}
+	],
+	"offices" : [
+		{
+			"description" : null,
+			"address1" : "135 Mississippi St",
+			"address2" : "",
+			"zip_code" : "94107",
+			"city" : "San Francisco",
+			"state_code" : "CA",
+			"country_code" : "USA",
+			"latitude" : 37.764726,
+			"longitude" : -122.394523
+		}
+	],
+	"milestones" : [
+		{
+			"id" : 9588,
+			"description" : "Another Digg Exec Is Out: Longtime CFO John Moffett Leaves",
+			"stoned_year" : 2010,
+			"stoned_month" : 10,
+			"stoned_day" : 25,
+			"source_url" : "http://techcrunch.com/2010/10/25/another-digg-exec-is-out-longtime-cfo-john-moffett-leaves/",
+			"source_text" : "",
+			"source_description" : "Another Digg Exec Is Out: Longtime CFO John Moffett Leaves",
+			"stoneable_type" : "Company",
+			"stoned_value" : null,
+			"stoned_value_type" : null,
+			"stoned_acquirer" : null,
+			"stoneable" : {
+				"name" : "Digg",
+				"permalink" : "digg"
+			}
+		},
+		{
+			"id" : 24912,
+			"description" : "Digg Sold To LinkedIn AND The Washington Post And Betaworks",
+			"stoned_year" : 2012,
+			"stoned_month" : 7,
+			"stoned_day" : 13,
+			"source_url" : "http://techcrunch.com/2012/07/12/digg-sold-to-linkedin-and-the-washington-post-and-betaworks/",
+			"source_text" : "",
+			"source_description" : "Digg Sold To LinkedIn AND The Washington Post And Betaworks",
+			"stoneable_type" : "Company",
+			"stoned_value" : null,
+			"stoned_value_type" : null,
+			"stoned_acquirer" : null,
+			"stoneable" : {
+				"name" : "Digg",
+				"permalink" : "digg"
+			}
+		},
+		{
+			"id" : 42148,
+			"description" : "Digg Video launches.",
+			"stoned_year" : 2013,
+			"stoned_month" : 11,
+			"stoned_day" : 5,
+			"source_url" : "http://techcrunch.com/2013/11/05/digg-gives-videos-prime-placement-with-new-digg-video-site/",
+			"source_text" : "",
+			"source_description" : "Digg Gives Videos Prime Placement With New Digg Video Site",
+			"stoneable_type" : "Company",
+			"stoned_value" : null,
+			"stoned_value_type" : null,
+			"stoned_acquirer" : null,
+			"stoneable" : {
+				"name" : "Digg",
+				"permalink" : "digg"
+			}
+		}
+	],
+	"ipo" : null,
+	"video_embeds" : [
+		{
+			"embed_code" : "<embed src=\"http://blip.tv/play/hRaY4zgA\" type=\"application/x-shockwave-flash\" width=\"370\" height=\"308\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>",
+			"description" : "<p>This video was originally published on <a href=\"http://www.beet.tv/2008/09/digg-raises-287.html\" title=\"Beet.TV\" rel=\"nofollow\">Beet.TV</a></p>"
+		},
+		{
+			"embed_code" : "<iframe width=\"430\" height=\"242\" src=\"http://www.youtube.com/embed/7J1T3Y70IW4\" frameborder=\"0\" allowfullscreen></iframe>",
+			"description" : "<p>TechCrunch interview with Kevin Rose, April 2009</p>"
+		}
+	],
+	"screenshots" : [
+		{
+			"available_sizes" : [
+				[
+					[
+						117,
+						150
+					],
+					"assets/images/resized/0020/0633/200633v1-max-150x150.png"
+				],
+				[
+					[
+						196,
+						250
+					],
+					"assets/images/resized/0020/0633/200633v1-max-250x250.png"
+				],
+				[
+					[
+						353,
+						450
+					],
+					"assets/images/resized/0020/0633/200633v1-max-450x450.png"
+				]
+			],
+			"attribution" : null
+		}
+	],
+	"external_links" : [
+		{
+			"external_url" : "http://www.sociableblog.com/2008/09/25/digg-closed-287-million-in-series-c/",
+			"title" : "Digg Closed $28.7 Million in Series C round led by Highland Capital Partners"
+		}
+	],
+	"partners" : [ ]
+}

@@ -1,0 +1,28 @@
+mongo-edu -d /Volumes/Source/Downloads/mongodb-edu/Videos/week_3_the_node_js_driver/ -u ankurpatel18@gmail.com --cw --hq --cc --save myvideo
+
+mongoimport -d myproject -c week3quiz test.json
+
+
+
+Homework: 3.1
+
+Ans :
+- When we call a cursor method passing a callback function to process query results
+
+
+Homework: 3.2
+
+Ans :
+- Bob, Seamus
+
+
+Homework: 3.3
+
+Ans :
+- 169
+
+
+Homework: 3.4
+
+Ans :
+- 48
