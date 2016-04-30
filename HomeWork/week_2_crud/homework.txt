@@ -1,0 +1,46 @@
+mongo-edu -d /Volumes/Source/Downloads/mongodb-edu/Videos/ -u ankurpatel18@gmail.com --cw --hq --cc --save myvideo
+
+
+
+Homework 2.1
+db.movieDetails.find({ "title" : { $in : [ "Saving Mr. Banks", "Man of Steel","A Tribute to J.J. Abrams","World War Z","Escape from Planet Earth","A Decade of Decadence, Pt. 2: Legacy of Dreams","Iron Man 3","Journey to the West","Thor: The Dark World","Evil Dead" ] }, "rated" : "PG-13","awards.wins":0 } ,{ title:1, awards:1, rated:1, _id:0 })
+
+Homework 2.2
+db.movieDetails.find({year: 1964}, {title: 1, _id: 0})
+db.movieDetails.find({}, {title: 1, _id: 0})
+
+Homework 2.3 
+db.movieDetails.find({"countries.1":"Sweden"},{_id:0,countries:1}).count()
+
+Homework 2.4
+db.movieDetails.find( { "genres": ["Comedy","Crime"] } , {_id:0,genres:1})
+
+Homework 2.5 
+db.movieDetails.find({$and: [{"genres" : {$eq:"Comedy"}}, {"genres" : {$eq:"Crime"}}]}, {_id:0,genres:1})
+
+Homework 2.6
+$set
+
+
+Quiz1
+Challenge Problem: Arrays with Nested Documents 
+db.movieDetails.find({"title":"Man of Steel"}).pretty()
+db.movieDetails.updateOne({"title":"Man of Steel"}, {
+	"awards" : {
+	    "oscars" : [
+	        {"award": "bestAnimatedFeature", "result": "won"},
+	        {"award": "bestMusic", "result": "won"},
+	        {"award": "bestPicture", "result": "nominated"},
+	        {"award": "bestSoundEditing", "result": "nominated"},
+	        {"award": "bestScreenplay", "result": "nominated"}
+	    ],
+	    "wins" : 56,
+	    "nominations" : 86,
+	    "text" : "Won 2 Oscars. Another 56 wins and 86 nominations."
+	}
+})"
+db.movieDetails.find({"awards.oscars.award" : 'bestPicture'})
+
+use movieDetails
+db.runCommand( { dropDatabase: 1 } )
+db.dropDatabase()
