@@ -1,0 +1,36 @@
+mongo-edu -d /Volumes/Source/Downloads/mongodb-edu/M101JS\ -\ MongoDB\ for\ Node.js\ Developers/Videos/week_7_application_engineering/ -u ankurpatel18@gmail.com --cw --hq --cc --save myvideo
+
+
+mongod --port 30001 --replSet replica_set --dbpath /data/rs1
+mongod --port 30002 --replSet replica_set --dbpath /data/rs2
+mongod --port 30003 --replSet replica_set --dbpath /data/rs3
+
+
+
+Homework: 7.1
+
+Which of the following statements are true about replication in MongoDB? Check all that apply.
+
+Ans: 
+- The oplog utilizes a capped collection.
+- The minimum sensible number of voting nodes to a replica set is three.
+
+
+Homework 7.2
+
+Let's suppose you have a five member replica set and want to assure that writes are committed to the journal and are acknowledged by at least 3 nodes before you proceed forward. What would be the appropriate settings for w and j?
+
+Ans:
+- w="majority", j=1
+
+Homework 7.3
+
+Which of the following statements are true about choosing and using a shard key? Check all that apply.
+
+Ans: 
+- Any update that does not contain the shard key will be sent to all shards.
+- MongoDB cannot enforce unique indexes on a sharded collection other than the shard key itself or indexes preferred by the shard key.
+- There must be an index on the collection that starts with the shard key.
+
+
+
